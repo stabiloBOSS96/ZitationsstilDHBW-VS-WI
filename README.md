@@ -8,7 +8,8 @@ Citavi Zitationsstil für den Studiengang Wirtschaftsinformatik an der DHBW Vill
 - Citavi 
 - Citavi Word Add-On
 
-## Titel in Word einfügen
+## How To
+### Titel in Word einfügen
 1. Aufgabenbereich einblenden (Word-Reiter Citavi)
 2. Zitationsstil "DHBW_VS_WI" und Projekt auswählen
 3. Rechtsklick auf gewünschten Titel im Aufgabenbereich
