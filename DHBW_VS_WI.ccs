@@ -5,7 +5,7 @@
   <BuiltIn>false</BuiltIn>
   <CreatedOn>2018-10-30T03:06:45+01:00</CreatedOn>
   <CreatedBy>DH10ZLU</CreatedBy>
-  <ModifiedOn>2019-05-24T11:28:55</ModifiedOn>
+  <ModifiedOn>2019-06-06T14:06:23</ModifiedOn>
   <ModifiedBy>DH10ZLU</ModifiedBy>
   <BasedOnStyleName />
   <Abbreviations />
@@ -31,7 +31,7 @@
   <CitationFormatOption2Description />
   <CitationFormatOption3Name>3</CitationFormatOption3Name>
   <CitationFormatOption3Description />
-  <LastTemplateUseCase>Book</LastTemplateUseCase>
+  <LastTemplateUseCase>InternetDocument</LastTemplateUseCase>
   <Replacements><![CDATA[!.|!|?.|?|...|…|..|.|….|…|  | |(, |(|( |(]]></Replacements>
   <CustomTemplateConditions />
   <ComponentParts>
@@ -528,12 +528,12 @@
       <PunctuationAfter type="LiteralElement">
         <ApplyCondition>Always</ApplyCondition>
         <FontStyle behavior="Define" />
-        <Text />
+        <Text>.</Text>
       </PunctuationAfter>
       <PunctuationBefore type="LiteralElement">
         <ApplyCondition>Always</ApplyCondition>
         <FontStyle behavior="Define" />
-        <Text>. </Text>
+        <Text>, </Text>
       </PunctuationBefore>
       <Scope>Reference</Scope>
       <ShowInList>true</ShowInList>
@@ -6949,6 +6949,7 @@
                   <ComponentPart refid="ddc01d21-c7dc-47eb-9929-4832d0314abe" />
                   <ComponentPart refid="22419122-ac7d-46cf-938a-86cb7ba59baa" />
                   <ComponentPart refid="14d3d1d6-3e3a-4ebf-8cd1-8b271e78ca5c" />
+                  <ComponentPart refid="a8cb5d29-1f36-4a4c-9bab-a4a2636be632" />
                 </ComponentParts>
               </Template>
             </Template>
@@ -7697,6 +7698,7 @@
                   <ComponentPart refid="24231dad-a835-4bf5-81f0-cf83ad885ccd" />
                   <ComponentPart refid="84f578ad-b115-4191-a641-fc306536a336" />
                   <ComponentPart refid="c44efdbb-6cf2-4d97-b45f-6e7a22a877cd" />
+                  <ComponentPart refid="a8cb5d29-1f36-4a4c-9bab-a4a2636be632" />
                 </ComponentParts>
               </Template>
             </Template>
@@ -8450,6 +8452,7 @@
                   <ComponentPart refid="24231dad-a835-4bf5-81f0-cf83ad885ccd" />
                   <ComponentPart refid="84f578ad-b115-4191-a641-fc306536a336" />
                   <ComponentPart refid="c44efdbb-6cf2-4d97-b45f-6e7a22a877cd" />
+                  <ComponentPart refid="a8cb5d29-1f36-4a4c-9bab-a4a2636be632" />
                 </ComponentParts>
               </Template>
             </Template>
