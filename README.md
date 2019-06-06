@@ -16,6 +16,9 @@ Citavi Zitationsstil für den Studiengang Wirtschaftsinformatik an der DHBW Vill
 4. "Mit Optionen einfügen" --> Seitenzahl (von-bis) und Präfix (Bsp.: "Vgl. ") spezifizieren
 5. Done :heavy_check_mark:
 
+### Internes Dokument zitieren
+Interne Dokumente müssen als solche deklariert werden. Hierzu muss in das Feld "Dokumententyp" (ggf. Freitext2) die Bezeichnung "Internes Dokument" eingefügt werden.
+
 Weitere [Möglichkeiten](https://www1.citavi.com/sub/manual5/de/wai_inserting_references.html "Citavi Dokumentation") um Titel über das Add-On einzufügen.
 
 Stand: Mai 2019
